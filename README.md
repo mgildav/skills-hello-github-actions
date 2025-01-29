@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._ :panama
+_Create and run a GitHub Actions workflow._ :panama:_
 
 </header>
 
