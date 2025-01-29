@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._ 🇻🇪
+_Create and run a GitHub Actions workflow._ :smile:_
 
 </header>
 
